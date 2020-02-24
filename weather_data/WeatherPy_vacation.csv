@@ -1,0 +1,15 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+1,Shubarkuduk,KZ,22.21,light snow,49.14,56.49,
+14,Narsaq,GL,23.0,snow,60.92,-46.05,Hotel Narsaq
+19,Dikson,RU,23.9,light snow,73.51,80.55,
+90,Husavik,IS,26.02,light snow,66.04,-17.34,Bjarnabúð
+105,Akureyri,IS,20.46,light snow,65.68,-18.09,Icelandair Hotel Akureyri
+197,Synya,RU,27.16,light snow,65.37,58.04,
+201,Nanortalik,GL,27.36,light snow,60.14,-45.24,"NTS Rooms, Nanortalik"
+274,Ust-Kulom,RU,24.78,light snow,61.69,53.69,
+391,Qaqortoq,GL,23.0,light snow,60.72,-46.03,Hotel Qaqortoq
+397,Oktyabrskiy,RU,26.13,light snow,54.48,53.47,Уязы-Тау гостиница
+409,Novoagansk,RU,22.35,light snow,61.94,76.66,
+500,Vavozh,RU,25.65,light snow,56.78,51.93,Tri Medvedya
+558,Ponazyrevo,RU,29.52,light snow,58.36,46.31,
+566,Usinsk,RU,27.05,light snow,65.99,57.53,Dobro Pozhalovaty
